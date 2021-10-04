@@ -3,7 +3,7 @@
 ## Hello developers My name is Luiz André Maceno I am Graduated from the University 9 de Julho System analysis and development and I am passionate about technology🤓💻
 <div align="center">
   <a href="https://github.com/Luizandre37">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizandre37&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=luizandre37&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizandre37&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
