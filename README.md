@@ -1,6 +1,6 @@
 
 
-## Hello web developer My name is Luiz André Maceno I am a 9 de Julho Graduated from the University of Systems Analysis and Development and I am passionate about technolog🤓💻
+## Hello web developers, my name is Luiz André Maceno I am Graduated in Systems Analysis and Development in 9 de Julho University and I am passionate about technology 🤓💻
 <div align="center">
   <a href="https://github.com/Luizandre37">
   <img height="215em" src="https://github-readme-stats.vercel.app/api?username=luizandre37&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
